@@ -1,0 +1,12 @@
+{
+  "manifestVersion": 1,
+  "id": "com.gab.token-auto-flip",
+  "name": "Token Auto Flip",
+  "version": "1.0.0",
+  "description": "Vira o token horizontalmente conforme a direção do arraste",
+  "author": "Gab",
+  "icon": "/icon.svg",
+  "background": {
+    "url": "/background.html"
+  }
+}
