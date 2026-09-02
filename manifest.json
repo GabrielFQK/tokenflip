@@ -3,6 +3,6 @@
   "name": "Token Auto Flip",
   "version": "1.0.0",
   "description": "Vira o token horizontalmente conforme a direção do arraste",
-  "icon": "icon.svg",
-  "background_url": "background.html"
+  "icon": "https://gabrielfqk.github.io/tokenflip/icon.svg",
+  "background_url": "https://gabrielfqk.github.io/tokenflip/background.html"
 }
